@@ -1,3 +1,4 @@
+import org.db.New;
 
 public class Test {
 
@@ -5,6 +6,9 @@ public class Test {
 		// TODO Auto-generated method stub
       System.out.println("Hello Git 1");
       System.out.println("number 2");
+      New ob = new New();
+      ob.display();
+      
 	}
 
 }
